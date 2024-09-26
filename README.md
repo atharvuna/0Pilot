@@ -21,5 +21,6 @@ https://drive.google.com/drive/folders/195S-GpGdAf-LvcbRrCAUuYXSWaVtTzZU
 
 For design feedback and contributions you can mail me and also hop in at official discord comma.ai/openpilot/#openpilot-ui channel 
 
+Will be updating this repo soon, with a better defined redesign process and feedback system for openpilot. 
 Stay tuned, more cool stuff coming soon. 
 Lets make openpilot the best ADAS.
