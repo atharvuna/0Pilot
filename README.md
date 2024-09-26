@@ -11,10 +11,12 @@
 1. Detailed Design-Case-Study:
    https://docs.google.com/presentation/d/12pWve2DT7f1X70GlMJC6eRV6UxP6fRLF1YVclk9tOAM/pub?start=false&loop=false&delayms=3000&slide=id.g2fada2e42ce_0_0
 
-2. Figma File (screens & prototypes):
+   (Please look into this this absoulety cool and informative)
+
+3. Figma File (screens & prototypes):
    https://www.figma.com/design/PZG3aMoLJMJDY1Oo2LHCje/OPENPILOT-UI-✨?node-id=0-1&node-type=canvas&t=ipBrEo8oH2e91WhL-0
 
-3. Demo Videos
+4. Demo Videos:
    https://drive.google.com/drive/folders/195S-GpGdAf-LvcbRrCAUuYXSWaVtTzZU
 
 For design feedback and contributions you can mail me and also hop in at official discord comma.ai/openpilot/#openpilot-ui channel 
