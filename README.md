@@ -4,7 +4,7 @@
 ### This fork is a full UI system redesign project of openpilot (leading ADAS)
 
 # What have I redesigned ??
-### -> Entire User-Interface with new Information Architecture with overall improved accessibility and usability.
+### Entire User-Interface with new Information Architecture with overall improved accessibility and usability.
 
 
 ### Progress (First Iteration):
